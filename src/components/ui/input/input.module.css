@@ -1,0 +1,22 @@
+.InputWrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.Input{
+    font-size: 14px;
+    padding: 0.3em;
+    border-radius: 3px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.Input:read-only{
+    background-color: #dddddd;
+}
+
+.Label{
+    font-size: 14px;
+    font-weight: bold;
+    color:black;
+}

@@ -1,0 +1,22 @@
+
+.Profile{
+    width: 100%;
+}
+
+.UserContainer{
+    display: flex;
+    width: 100%;
+}
+
+.AddressContainer{
+    padding : 0 5em;
+    flex : 1;
+}
+
+.UserInfoContainer{
+    flex :1;
+}
+
+.ButtonContainer{
+    margin-top: 2em;
+}

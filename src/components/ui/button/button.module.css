@@ -1,0 +1,17 @@
+
+.Button{
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    color : white;
+    text-align: center;
+    padding: 1em;
+}
+
+.Primary{
+    background-color: #1565C0;
+}
+
+.Danger{
+    background-color: #B71C1C;
+}
