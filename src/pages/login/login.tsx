@@ -24,8 +24,8 @@ function Login() {
     }, []);
 
     const loginHandler = () => {
-        const dummyUsername = '';
-        const dummyPassword = '';
+        const dummyUsername = 'xerini';
+        const dummyPassword = 'xerini';
 
         if (userName === dummyUsername && password === dummyPassword) {
             authContext.login();
